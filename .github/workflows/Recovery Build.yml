@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Pvawan/A3467.git'
+        default: 'https://github.com/Pvawan/Apk'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'a34xdxx-user-12-SP1A.210812.016-A346EXXS7CXE2-release-keys'
+        default: 'Apk'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
